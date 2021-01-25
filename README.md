@@ -1,4 +1,4 @@
-# Ismael Bernárdez
+# @nunhes - Ismael Bernárdez
 
 - 🔭 I’m currently working on ambosass.com
 - 🌱 I’m currently learning react, vue and more
@@ -24,7 +24,7 @@ XUÑO 1996
 ______
 
 
-> *atrapado polo blues de Memphis e sen poder salir*-
+> *...atrapado polo blues de Memphis, e sen poder saír*-
 > Kiko Veneno
 
 <!--
