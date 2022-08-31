@@ -1,7 +1,7 @@
 # @nunhes - Ismael Bernárdez
 
 - 🔭 I’m currently working on ambosass.com
-- 🌱 I’m currently learning react, vue and more
+- 🌱 I’m currently learning laravel, react, vue and more
 
 
 
