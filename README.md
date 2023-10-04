@@ -1,7 +1,7 @@
 # @nunhes - Ismael Bernárdez
 
-- 🔭 I’m currently working on ambosass.com
-- 🌱 I’m currently learning laravel, react, vue and more
+- 🔭 I’m currently working on [bitsolto.com](bitsolto.com)
+- 🌱 I’m currently learning laravel, astro, react, vue and more
 
 
 
@@ -37,8 +37,8 @@ ______
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ambosass.com
-- 🌱 I’m currently learning react, vue and more
+- 🔭 I’m currently working on [bitsolto.com](bitsolto.com)
+- 🌱 I’m currently learning astro, react, vue and more
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
